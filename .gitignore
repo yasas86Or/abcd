@@ -1,0 +1,5 @@
+/vendor/
+/web/
+/app/cache/
+/app/logs/
+/bin/ 
