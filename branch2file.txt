@@ -1,4 +1,10 @@
 sssssssssss
 ssssssssss
 bbbbbbbbbb
+<<<<<<< HEAD
 asdads
+=======
+
+
+tttttttttttt
+>>>>>>> branch2
